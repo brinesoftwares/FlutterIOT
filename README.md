@@ -1,5 +1,5 @@
 # FlutterIOT
-The simple IoT project using Flutter
+The simple IoT project using Flutter & Google Assistant
 
 ## Screenshot
 
