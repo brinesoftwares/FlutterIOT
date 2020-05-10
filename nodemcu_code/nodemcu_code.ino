@@ -16,7 +16,8 @@ void printResult(FirebaseData &data);
 
 void setup()
 {
-
+  pinMode(D2, OUTPUT);
+  digitalWrite(D2, LOW);
   Serial.begin(115200);
   WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
   Serial.print("Connecting to Wi-Fi");
@@ -44,6 +45,7 @@ void loop()
 
   if(Firebase.getBool(firebaseData, "light")){
      Serial.println(firebaseData.boolData());
+     digitalWrite(D2,firebaseData.boolData());
   }
-  delay(600);
+  delay(400);
 }
