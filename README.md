@@ -10,7 +10,7 @@ The simple IoT project using Flutter
 ## Circuit
 
 <p align="center">
-  <img src="https://github.com/brinesoftwares/FlutterIOT/blob/master/screenshots/circuit.jpg?raw=true" width="350" title="hover text">
+  <img src="https://github.com/brinesoftwares/FlutterIOT/blob/master/screenshots/Led_circuit.jpg?raw=true" width="350" title="hover text">
 </p>
 
 
