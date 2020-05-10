@@ -22,6 +22,7 @@ The simple IoT project using Flutter
 ## Backend
 
   - Firebase
+  - Google Assistant
   
 ## Hardware
 
