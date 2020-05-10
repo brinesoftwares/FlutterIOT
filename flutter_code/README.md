@@ -1,6 +1,5 @@
 # FlutterIOT
-
-A new Flutter project.
+IoT project using Flutter, Firebase and NodeMCU(ESP8266).
 
 ## Getting Started
 
