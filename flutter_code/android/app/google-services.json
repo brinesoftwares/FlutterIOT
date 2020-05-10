@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91010460757",
+    "firebase_url": "https://flutter-iot-f1373.firebaseio.com",
+    "project_id": "flutter-iot-f1373",
+    "storage_bucket": "flutter-iot-f1373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91010460757:android:7159de0b7c0b68f1cd38dc",
+        "android_client_info": {
+          "package_name": "com.example.FlutterIOT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91010460757-rsqseqdsijfoikc9dhggfejg6e6rgjr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNr5hPV54vZMppKbnI1IscYRKLuMvLSVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91010460757-rsqseqdsijfoikc9dhggfejg6e6rgjr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
