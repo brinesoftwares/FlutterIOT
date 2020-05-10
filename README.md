@@ -7,6 +7,12 @@ The simple IoT project using Flutter
   <img src="https://github.com/brinesoftwares/FlutterIOT/blob/master/screenshots/app_screenshot.jpeg?raw=true" width="350" title="hover text">
 </p>
 
+## Circuit
+
+<p align="center">
+  <img src="https://github.com/brinesoftwares/FlutterIOT/blob/master/screenshots/app_screenshot.jpeg?raw=true" width="350" title="hover text">
+</p>
+
 
 ## Language used
 
