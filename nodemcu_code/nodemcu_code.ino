@@ -4,8 +4,8 @@
 
 #define FIREBASE_HOST "flutter-iot-f1373.firebaseio.com"
 #define FIREBASE_AUTH "wo6h4ujqr52wplaf0w3Vq1vq0840pTLBGUbr2BaW"
-#define WIFI_SSID "BRINE SOFTYWARE"
-#define WIFI_PASSWORD "8973405088"
+#define WIFI_SSID "BRINE SOFTWARE SOLUTION PVT LTD"
+#define WIFI_PASSWORD "12345678"
 
 
 FirebaseData firebaseData;
