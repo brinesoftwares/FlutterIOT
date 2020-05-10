@@ -26,5 +26,5 @@ The simple IoT project using Flutter
 ## Hardware
 
   - NodeMCU(esp8266)
-  - Relay
+  - LED
  
