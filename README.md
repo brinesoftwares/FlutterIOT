@@ -3,7 +3,7 @@ The simple IoT project using Flutter
 
 ## Screenshot
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/brinesoftwares/FlutterIOT/blob/master/screenshots/app_screenshot.jpeg?raw=true)
 
 ## Language used
 
